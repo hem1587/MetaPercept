@@ -1,0 +1,18 @@
+.productdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+   
+}
+h1{
+    font-weight: 400;
+}
+.card-list{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    justify-content: space-around;
+    width:70% ;
+}

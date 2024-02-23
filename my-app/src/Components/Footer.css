@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+.left{
+    color :gray;
+
+}
+.right{
+    text-decoration: none;
+    color: skyblue;
+    
+}
